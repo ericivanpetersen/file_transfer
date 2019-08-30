@@ -4,7 +4,7 @@
 # 	output directory and organizes them by date
 #	in the output directory.
 #	E.G. Photo on Dec 23 2013 goes to:
-#	$outputdir/2013/12_December/23_Dec_2013/
+#	$outputdir/2013/12_December/23/
 #
 # Usage: ./copy_organize_photos.sh {input directory} {output directory}
 
